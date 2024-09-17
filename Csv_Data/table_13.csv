@@ -1,88 +1,27 @@
-"e
-c
-a
-lP","m
-u
-N
-r
-a
-C","m
-a
-e
-T","d
-e
-t st s
-uo
-jdC
-A","e
-r
-o
-c
-S)
-0
-e3
-(
-c
-ir
-P","y
-c
-a
-r
-u
-c c A) 5 1
-(
-t
-s
-o
-C","g)
-5
-n1
-ir e(
-s
-eg
-nn
-igiw
-na
-Er
-D","o)
-0
-ir n4
-a (
-e
-e c Sr o c
-S","y
-t
-la
-n
-e
-P","e
-r
-o
-c
-S"
-53,74,Drexel Univ,"$22,355",12.1,10.5,10,34,,66.64
-54,121,Univ of Saskatchewan,"$16,578",20,13,12,21.5,,66.55
-55,22,Sacramento State Univ,"$18,077",18,13,2,33.5,,66.5
-56,109,Temple Univ,"$17,685",18.5,15,15,17,,65.53
-57,101,Minnesota State University - Mankato,"$14,081",23.5,12,,30,,65.47
-58,23,Kansas State Univ,"$23,516",10.5,10,11,33,,64.54
-59,64,West Virginia Univ,"$20,603",14.5,10,10,30,,64.54
-60,117,Pellissippi State Community College,"$14,897",22.4,8,1,33,,64.35
-61,44,Univ of Texas - Dallas,"$18,791",17,8,5,34,,64.02
-62,14,Univ of Cincinnati,"$17,334",19,10,10,25,,64.01
-63,94,Univ of Colorado - Boulder,"$18,891",16.9,10,1,36,,63.88
-64,36,Colorado State University,"$26,153",6.9,13,10,33,,62.93
-65,25,California State Poly Univ - Pomona,"$28,321",4,12,13,33,,61.96
-66,105,Univ of Southern California,"$22,365",12.1,14,8,27,,61.12
-67,106,Embry-Riddle Aero Univ - Daytona Beach,"$26,291",6.7,12,5,36,,59.74
-68,52,California State Univ - Chico,"$14,367",23.1,10,4.5,21.5,,59.08
-69,133,Universidad Autonoma Estado Mexico,"$16,145",20.6,9,,29,,58.64
-70,102,Missouri University of Science and Tech,"$14,530",22.9,12,15,8,,57.85
-71,79,Univ of Texas - San Antonio,"$15,209",21.9,9.5,,26,,57.42
-72,65,Hope College,"$16,383",20.3,11,7,19,,57.32
-73,87,Univ of Georgia,"$13,327",24.5,7,1,24,,56.5
-74,120,Oregon Inst of Tech,"$17,136",19.3,11,2,24,,56.28
-75,69,Bradley Univ,"$12,814",25.2,12,3,25.5,-10,55.7
-76,136,Univ of Minnesota-Duluth,"$12,712",25.3,10,2,18,,55.34
-77,43,Universidad Panamericana Sede Guadalajar,"$14,641",22.7,13,15,4,,54.7
-78,100,Kettering Univ,"$14,301",23.2,12,8,10,,53.17
+Unnamed: 0,ecalP,muNraC,maeT,det st suojdCA,erocS)0e3(cirP,ycaruc c A) 5 1(tsoC,g)5n1ir e(segnnigiwnaErD,o)0ir n4a (ee c Sr o cS,ytlaneP,erocS
+1,53,74,Drexel Univ,"$22,355",12.1,10.5,10.0,34.0,,66.64
+2,54,121,Univ of Saskatchewan,"$16,578",20.0,13.0,12.0,21.5,,66.55
+3,55,22,Sacramento State Univ,"$18,077",18.0,13.0,2.0,33.5,,66.5
+4,56,109,Temple Univ,"$17,685",18.5,15.0,15.0,17.0,,65.53
+5,57,101,Minnesota State University - Mankato,"$14,081",23.5,12.0,,30.0,,65.47
+6,58,23,Kansas State Univ,"$23,516",10.5,10.0,11.0,33.0,,64.54
+7,59,64,West Virginia Univ,"$20,603",14.5,10.0,10.0,30.0,,64.54
+8,60,117,Pellissippi State Community College,"$14,897",22.4,8.0,1.0,33.0,,64.35
+9,61,44,Univ of Texas - Dallas,"$18,791",17.0,8.0,5.0,34.0,,64.02
+10,62,14,Univ of Cincinnati,"$17,334",19.0,10.0,10.0,25.0,,64.01
+11,63,94,Univ of Colorado - Boulder,"$18,891",16.9,10.0,1.0,36.0,,63.88
+12,64,36,Colorado State University,"$26,153",6.9,13.0,10.0,33.0,,62.93
+13,65,25,California State Poly Univ - Pomona,"$28,321",4.0,12.0,13.0,33.0,,61.96
+14,66,105,Univ of Southern California,"$22,365",12.1,14.0,8.0,27.0,,61.12
+15,67,106,Embry-Riddle Aero Univ - Daytona Beach,"$26,291",6.7,12.0,5.0,36.0,,59.74
+16,68,52,California State Univ - Chico,"$14,367",23.1,10.0,4.5,21.5,,59.08
+17,69,133,Universidad Autonoma Estado Mexico,"$16,145",20.6,9.0,,29.0,,58.64
+18,70,102,Missouri University of Science and Tech,"$14,530",22.9,12.0,15.0,8.0,,57.85
+19,71,79,Univ of Texas - San Antonio,"$15,209",21.9,9.5,,26.0,,57.42
+20,72,65,Hope College,"$16,383",20.3,11.0,7.0,19.0,,57.32
+21,73,87,Univ of Georgia,"$13,327",24.5,7.0,1.0,24.0,,56.5
+22,74,120,Oregon Inst of Tech,"$17,136",19.3,11.0,2.0,24.0,,56.28
+23,75,69,Bradley Univ,"$12,814",25.2,12.0,3.0,25.5,-10.0,55.7
+24,76,136,Univ of Minnesota-Duluth,"$12,712",25.3,10.0,2.0,18.0,,55.34
+25,77,43,Universidad Panamericana Sede Guadalajar,"$14,641",22.7,13.0,15.0,4.0,,54.7
+26,78,100,Kettering Univ,"$14,301",23.2,12.0,8.0,10.0,,53.17

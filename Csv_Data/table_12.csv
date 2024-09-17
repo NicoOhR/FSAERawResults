@@ -1,88 +1,27 @@
-"e
-c
-a
-lP","m
-u
-N
-r
-a
-C","m
-a
-e
-T","d
-e
-t st s
-uo
-jdC
-A","e
-r
-o
-c
-S)
-0
-e3
-(
-c
-ir
-P","y
-c
-a
-r
-u
-c c A) 5 1
-(
-t
-s
-o
-C","g)
-5
-n1
-ir e(
-s
-eg
-nn
-igiw
-na
-Er
-D","o)
-0
-ir n4
-a (
-e
-e c Sr o c
-S","y
-t
-la
-n
-e
-P","e
-r
-o
-c
-S"
-27,127,Univ of Connecticut,"$20,786",14.3,15,15,32,,76.28
-28,135,Univ of Wisconsin - Madison,"$21,207",13.7,12,11,39.5,,76.21
-29,63,Duke Univ,"$20,215",15.1,14,12,35,,76.07
-30,27,Carleton Univ,"$12,738",25.3,12,,38,,75.31
-31,33,Rose Hulman Inst of Tech,"$20,073",15.3,11,13,36,,75.26
-32,53,Clemson Univ,"$22,640",11.7,12,15,36.5,,75.25
-33,78,Univ of the Pacific,"$11,024",27.7,10.5,12,24,,74.16
-34,119,California Baptist University,"$19,298",16.3,9,12,36,,73.32
-35,76,Univ of Alabama - Tuscaloosa,"$28,134",4.2,14,15,40,,73.22
-36,107,Virginia Tech,"$26,892",5.9,13,14,40,,72.92
-37,38,North Carolina State Univ - Raleigh,"$19,385",16.2,11,13,32,,72.2
-38,8,Purdue Univ - W Lafayette,"$25,994",7.2,14,15,36,,72.15
-39,49,Univ of Maryland - College Park,"$21,191",13.7,13,5,40,,71.73
-40,67,Univ of Minnesota - Twin Cities,"$24,960",8.6,15,15,33,,71.57
-41,61,Wayne State Univ,"$17,685",18.5,10,14,28,,70.53
-42,110,Michigan Tech Univ,"$18,630",17.2,10,7,36,,70.24
-43,91,Mississippi State Univ,"$16,496",20.2,14,10,26,,70.16
-44,45,California State Univ - Northridge,"$17,513",18.8,13,15,23,,69.77
-45,19,Purdue Univ - Northwest,"$18,132",17.9,11,12,28,,68.92
-46,111,Florida International Univ,"$18,192",17.8,9,12,30,,68.84
-47,84,Univ of British Columbia,"$25,300",8.1,11,12,37.5,,68.6
-48,30,Univ of Calif - Berkeley,"$20,048",15.3,14,14,25,,68.3
-49,47,Univ of Kentucky,"$15,750",21.2,11,,36,,68.18
-50,48,Univ of Central Florida,"$24,810",8.8,13,12,34,,67.77
-51,15,Tennessee Tech Univ,"$9,313",30,11,4,22,,67
-52,77,Vanderbilt Univ,"$13,901",23.7,8,2,33,,66.72
+Unnamed: 0,ecalP,muNraC,maeT,det st suojdCA,erocS)0e3(cirP,ycaruc c A) 5 1(tsoC,g)5n1ir e(segnnigiwnaErD,o)0ir n4a (ee c Sr o cS,ytlaneP,erocS
+1,27,127,Univ of Connecticut,"$20,786",14.3,15.0,15.0,32.0,,76.28
+2,28,135,Univ of Wisconsin - Madison,"$21,207",13.7,12.0,11.0,39.5,,76.21
+3,29,63,Duke Univ,"$20,215",15.1,14.0,12.0,35.0,,76.07
+4,30,27,Carleton Univ,"$12,738",25.3,12.0,,38.0,,75.31
+5,31,33,Rose Hulman Inst of Tech,"$20,073",15.3,11.0,13.0,36.0,,75.26
+6,32,53,Clemson Univ,"$22,640",11.7,12.0,15.0,36.5,,75.25
+7,33,78,Univ of the Pacific,"$11,024",27.7,10.5,12.0,24.0,,74.16
+8,34,119,California Baptist University,"$19,298",16.3,9.0,12.0,36.0,,73.32
+9,35,76,Univ of Alabama - Tuscaloosa,"$28,134",4.2,14.0,15.0,40.0,,73.22
+10,36,107,Virginia Tech,"$26,892",5.9,13.0,14.0,40.0,,72.92
+11,37,38,North Carolina State Univ - Raleigh,"$19,385",16.2,11.0,13.0,32.0,,72.2
+12,38,8,Purdue Univ - W Lafayette,"$25,994",7.2,14.0,15.0,36.0,,72.15
+13,39,49,Univ of Maryland - College Park,"$21,191",13.7,13.0,5.0,40.0,,71.73
+14,40,67,Univ of Minnesota - Twin Cities,"$24,960",8.6,15.0,15.0,33.0,,71.57
+15,41,61,Wayne State Univ,"$17,685",18.5,10.0,14.0,28.0,,70.53
+16,42,110,Michigan Tech Univ,"$18,630",17.2,10.0,7.0,36.0,,70.24
+17,43,91,Mississippi State Univ,"$16,496",20.2,14.0,10.0,26.0,,70.16
+18,44,45,California State Univ - Northridge,"$17,513",18.8,13.0,15.0,23.0,,69.77
+19,45,19,Purdue Univ - Northwest,"$18,132",17.9,11.0,12.0,28.0,,68.92
+20,46,111,Florida International Univ,"$18,192",17.8,9.0,12.0,30.0,,68.84
+21,47,84,Univ of British Columbia,"$25,300",8.1,11.0,12.0,37.5,,68.6
+22,48,30,Univ of Calif - Berkeley,"$20,048",15.3,14.0,14.0,25.0,,68.3
+23,49,47,Univ of Kentucky,"$15,750",21.2,11.0,,36.0,,68.18
+24,50,48,Univ of Central Florida,"$24,810",8.8,13.0,12.0,34.0,,67.77
+25,51,15,Tennessee Tech Univ,"$9,313",30.0,11.0,4.0,22.0,,67.0
+26,52,77,Vanderbilt Univ,"$13,901",23.7,8.0,2.0,33.0,,66.72

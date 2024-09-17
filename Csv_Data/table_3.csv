@@ -1,128 +1,26 @@
-"e
-c
-a
-lP","m
-u
-N
-r
-a
-C","m
-a
-e
-T","y
-t
-la
-n
-e
-P","e
-r
-o
-c
-S
-t
-s
-o
-C","n
-o
-it
-ae
-t nr o
-ec
-sS
-e
-r
-P","e
-r
-o
-c
-S
-n
-g
-is
-e
-D","n
-o
-it
-ae
-r er o
-lec
-S
-c
-c
-A","e
-r
-o
-c
-S
-d
-a
-P
-d
-ik
-S","e
-r
-o
-c
-S
-s
-s
-o
-r
-c
-o
-t
-u
-A","e
-c
-ne
-ar
-ro
-uc
-dS
-n
-E","e
-r
-o
-c
-S
-y
-c
-n
-e
-ic
-if
-f
-E","e
-r
-o
-c
-S
-la
-t
-o
-T"
-76,93,South Dakota State Univ,,39.1,20.0,75,34.8,19.4,6.5,12,,206.8
-77,131,Univ of Ottawa,,51.8,35.6,60,,,33.2,25,,205.6
-78,33,Rose Hulman Inst of Tech,,75.3,33.2,60,,,34.2,,,202.6
-79,120,Oregon Inst of Tech,,56.3,38.0,60,4.5,26.3,6.5,6,,197.6
-80,15,Tennessee Tech Univ,,67.0,32.3,40,47.7,3.5,6.5,,,197.0
-81,48,Univ of Central Florida,,67.8,45.4,80,,,,,,193.2
-82,111,Florida International Univ,,68.8,41.0,75,,,,,,184.8
-83,62,Washington State Univ,,46.5,22.0,55,50.7,3.5,,,,177.7
-84,116,Saginaw Valley State Univ,,47.9,25.8,50,,42.9,6.5,4,,177.0
-85,118,Univ of Manitoba,,78.4,38.0,60,,,,,,176.4
-86,19,Purdue Univ - Northwest,,68.9,42.5,60,,,,,,171.4
-87,100,Kettering Univ,,53.2,28.1,80,,,,4,,165.3
-88,64,West Virginia Univ,,64.5,34.3,60,,,,,,158.8
-89,61,Wayne State Univ,,70.5,26.2,60,,,,,,156.7
-90,36,Colorado State University,,62.9,28.7,45,,3.9,6.5,4,,150.9
-91,58,Syracuse Univ,-10,18.0,41.9,40,,19.8,6.5,25,,141.2
-92,52,California State Univ - Chico,,59.1,49.1,30,,,,,,138.2
-93,117,Pellissippi State Community College,,64.4,51.3,20,,,,,,135.6
-94,74,Drexel Univ,-10,66.6,29.9,40,,,,,,126.6
-95,136,Univ of Minnesota-Duluth,,55.3,47.5,20,,,,,,122.9
-96,125,Northern Arizona Univ,,30.6,50.8,15,,,,25,,121.4
-97,78,Univ of the Pacific,,74.2,27.3,,,,6.5,12,,119.9
-98,69,Bradley Univ,,55.7,33.2,30,,,,,,118.9
-99,133,Universidad Autonoma Estado Mexico,,58.6,29.3,20,,,,,,107.9
-100,43,Universidad Panamericana Sede Guadalajar,,54.7,32.8,20,,,,,,107.5
+Unnamed: 0,ecalP,muNraC,maeT,ytlaneP,erocStsoC,noitaet nr oecsSerP,erocSngiseD,noitaer er olecSccA,erocSdaPdikS,erocSssorcotuA,ecnearroucdSnE,erocSycneiciffE,erocSlatoT
+1,76,93,South Dakota State Univ,,39.1,20.0,75.0,34.8,19.4,6.5,12.0,,206.8
+2,77,131,Univ of Ottawa,,51.8,35.6,60.0,,,33.2,25.0,,205.6
+3,78,33,Rose Hulman Inst of Tech,,75.3,33.2,60.0,,,34.2,,,202.6
+4,79,120,Oregon Inst of Tech,,56.3,38.0,60.0,4.5,26.3,6.5,6.0,,197.6
+5,80,15,Tennessee Tech Univ,,67.0,32.3,40.0,47.7,3.5,6.5,,,197.0
+6,81,48,Univ of Central Florida,,67.8,45.4,80.0,,,,,,193.2
+7,82,111,Florida International Univ,,68.8,41.0,75.0,,,,,,184.8
+8,83,62,Washington State Univ,,46.5,22.0,55.0,50.7,3.5,,,,177.7
+9,84,116,Saginaw Valley State Univ,,47.9,25.8,50.0,,42.9,6.5,4.0,,177.0
+10,85,118,Univ of Manitoba,,78.4,38.0,60.0,,,,,,176.4
+11,86,19,Purdue Univ - Northwest,,68.9,42.5,60.0,,,,,,171.4
+12,87,100,Kettering Univ,,53.2,28.1,80.0,,,,4.0,,165.3
+13,88,64,West Virginia Univ,,64.5,34.3,60.0,,,,,,158.8
+14,89,61,Wayne State Univ,,70.5,26.2,60.0,,,,,,156.7
+15,90,36,Colorado State University,,62.9,28.7,45.0,,3.9,6.5,4.0,,150.9
+16,91,58,Syracuse Univ,-10.0,18.0,41.9,40.0,,19.8,6.5,25.0,,141.2
+17,92,52,California State Univ - Chico,,59.1,49.1,30.0,,,,,,138.2
+18,93,117,Pellissippi State Community College,,64.4,51.3,20.0,,,,,,135.6
+19,94,74,Drexel Univ,-10.0,66.6,29.9,40.0,,,,,,126.6
+20,95,136,Univ of Minnesota-Duluth,,55.3,47.5,20.0,,,,,,122.9
+21,96,125,Northern Arizona Univ,,30.6,50.8,15.0,,,,25.0,,121.4
+22,97,78,Univ of the Pacific,,74.2,27.3,,,,6.5,12.0,,119.9
+23,98,69,Bradley Univ,,55.7,33.2,30.0,,,,,,118.9
+24,99,133,Universidad Autonoma Estado Mexico,,58.6,29.3,20.0,,,,,,107.9
+25,100,43,Universidad Panamericana Sede Guadalajar,,54.7,32.8,20.0,,,,,,107.5
