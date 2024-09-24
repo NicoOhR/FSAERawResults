@@ -1,26 +1,26 @@
-Unnamed: 0,ecalP,muNraC,maeT,tne my tlaunceoPD,erocSwaR,ytlanePetaL,sutatS,erocS
-1,85 T,15,Tennessee Tech Univ,,40.0,,,40.0
-2,85 T,58,Syracuse Univ,,40.0,,,40.0
-3,85 T,74,Drexel Univ,,40.0,,,40.0
-4,85 T,106,Embry-Riddle Aero Univ - Daytona Beach,,80.0,40.0,,40.0
-5,85 T,108,Lawrence Technological Univ,,40.0,,,40.0
-6,85 T,119,California Baptist University,,60.0,20.0,,40.0
-7,85 T,128,St Cloud State Univ,,40.0,,,40.0
-8,92,95,Univ of Toledo,5.0,40.0,,,35.0
-9,93 T,52,California State Univ - Chico,,40.0,10.0,,30.0
-10,93 T,69,Bradley Univ,,40.0,10.0,,30.0
-11,95 T,43,Universidad Panamericana Sede Guadalajar,,20.0,,,20.0
-12,95 T,103,Penn State Univ - Harrisburg,,40.0,20.0,,20.0
-13,95 T,117,Pellissippi State Community College,,20.0,,,20.0
-14,95 T,133,Universidad Autonoma Estado Mexico,,20.0,,,20.0
-15,95 T,136,Univ of Minnesota-Duluth,,20.0,,,20.0
-16,100 T,79,Univ of Texas - San Antonio,5.0,20.0,,,15.0
-17,100 T,113,US Air Force Academy,5.0,20.0,,,15.0
-18,100 T,125,Northern Arizona Univ,5.0,40.0,20.0,,15.0
-19,103 T,54,Instituto Tecnologico de Chihuahua,,20.0,10.0,,10.0
-20,103 T,72,Univ of Delaware,10.0,20.0,,,10.0
-21,103 T,130,Northern Illinois Univ,,20.0,10.0,,10.0
-22,103 T,138,Universidad Autonoma de Baja California,,20.0,10.0,,10.0
+,Place,CarNum,Team,DPoecnualt ym ent,RawScore,LatePenalty,Status,Score
+1,85 T,15,Tennessee Tech Univ,,40,,,40
+2,85 T,58,Syracuse Univ,,40,,,40
+3,85 T,74,Drexel Univ,,40,,,40
+4,85 T,106,Embry-Riddle Aero Univ - Daytona Beach,,80,40,,40
+5,85 T,108,Lawrence Technological Univ,,40,,,40
+6,85 T,119,California Baptist University,,60,20,,40
+7,85 T,128,St Cloud State Univ,,40,,,40
+8,92,95,Univ of Toledo,5,40,,,35
+9,93 T,52,California State Univ - Chico,,40,10,,30
+10,93 T,69,Bradley Univ,,40,10,,30
+11,95 T,43,Universidad Panamericana Sede Guadalajar,,20,,,20
+12,95 T,103,Penn State Univ - Harrisburg,,40,20,,20
+13,95 T,117,Pellissippi State Community College,,20,,,20
+14,95 T,133,Universidad Autonoma Estado Mexico,,20,,,20
+15,95 T,136,Univ of Minnesota-Duluth,,20,,,20
+16,100 T,79,Univ of Texas - San Antonio,5,20,,,15
+17,100 T,113,US Air Force Academy,5,20,,,15
+18,100 T,125,Northern Arizona Univ,5,40,20,,15
+19,103 T,54,Instituto Tecnologico de Chihuahua,,20,10,,10
+20,103 T,72,Univ of Delaware,10,20,,,10
+21,103 T,130,Northern Illinois Univ,,20,10,,10
+22,103 T,138,Universidad Autonoma de Baja California,,20,10,,10
 23,,37,Univ of Arizona,,,,,
 24,,41,Univ of Houston - Houston,,,,,
 25,,50,Missouri State University,,,,,

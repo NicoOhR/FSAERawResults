@@ -1,23 +1,23 @@
-Unnamed: 0,ecalP,muNraC,maeT,emiT,spaL,senoC,esruoCffO,hyr e t latnOeP,detesmujdiTA,erocSemiT,erocSspaL,ecnearroucdSnE
-1,45.0,104,Washington Univ - St Louis,1913.321,10,20.0,10.0,,2153.321,-,25,25.0
-2,46.0,73,Univ of Puerto Rico-Mayaquez,1872.486,10,9.0,8.0,120.0,2170.486,-,25,25.0
-3,47.0,46,York College of Pennsylvania,1995.336,10,14.0,9.0,,2203.336,-,25,25.0
-4,48.0,125,Northern Arizona Univ,2092.469,10,6.0,8.0,,2264.469,-,25,25.0
-5,49.0,72,Univ of Delaware,1978.65,10,21.0,10.0,150.0,2370.650,-,25,25.0
-6,,99,Univ of North Florida,1444.939,9,20.0,3.0,,DNF,-,20,20.0
-7,,17,Florida Atlantic Univ,1720.931,9,9.0,5.0,,DNF,-,20,20.0
-8,,135,Univ of Wisconsin - Madison,1176.547,7,7.0,4.0,120.0,DNF,-,16,16.0
-9,,20,Univ of Victoria,1216.898,7,2.0,1.0,120.0,DNF,-,16,16.0
-10,,105,Univ of Southern California,1342.426,7,3.0,,,DNF,-,16,16.0
-11,,42,Univ of Oklahoma,952.93,6,,5.0,,DNF,-,14,14.0
-12,,27,Carleton Univ,1067.137,6,3.0,,,DNF,-,14,14.0
-13,,107,Virginia Tech,1073.004,6,2.0,,120.0,DNF,-,14,14.0
-14,,38,North Carolina State Univ - Raleigh,737.814,5,3.0,10.0,,DNF,-,12,12.0
-15,,25,California State Poly Univ - Pomona,748.931,5,2.0,1.0,,DNF,-,12,12.0
-16,,29,Univ of Texas - Austin,837.734,5,9.0,1.0,,DNF,-,12,12.0
-17,,94,Univ of Colorado - Boulder,899.433,5,2.0,5.0,,DNF,-,12,12.0
-18,,93,South Dakota State Univ,935.217,5,9.0,2.0,,DNF,-,12,12.0
-19,,78,Univ of the Pacific,955.282,5,3.0,5.0,,DNF,-,12,12.0
-20,,71,Univ of Hartford,957.0,5,5.0,4.0,,DNF,-,12,12.0
-21,,121,Univ of Saskatchewan,677.894,4,2.0,3.0,,DNF,-,8,8.0
-22,,102,Missouri University of Science and Tech,485.558,3,1.0,,,DNF,-,6,6.0
+,Place,CarNum,Team,Time,Laps,Cones,OffCourse,PeOntal t e ryh,ATidjumseted,TimeScore,LapsScore,EnSdcuorraence
+1,45,104,Washington Univ - St Louis,1913.321,10,20,10,,2153.321,-,25,25.0
+2,46,73,Univ of Puerto Rico-Mayaquez,1872.486,10,9,8,120,2170.486,-,25,25.0
+3,47,46,York College of Pennsylvania,1995.336,10,14,9,,2203.336,-,25,25.0
+4,48,125,Northern Arizona Univ,2092.469,10,6,8,,2264.469,-,25,25.0
+5,49,72,Univ of Delaware,1978.650,10,21,10,150,2370.650,-,25,25.0
+6,,99,Univ of North Florida,1444.939,9,20,3,,DNF,-,20,20.0
+7,,17,Florida Atlantic Univ,1720.931,9,9,5,,DNF,-,20,20.0
+8,,135,Univ of Wisconsin - Madison,1176.547,7,7,4,120,DNF,-,16,16.0
+9,,20,Univ of Victoria,1216.898,7,2,1,120,DNF,-,16,16.0
+10,,105,Univ of Southern California,1342.426,7,3,,,DNF,-,16,16.0
+11,,42,Univ of Oklahoma,952.930,6,,5,,DNF,-,14,14.0
+12,,27,Carleton Univ,1067.137,6,3,,,DNF,-,14,14.0
+13,,107,Virginia Tech,1073.004,6,2,,120,DNF,-,14,14.0
+14,,38,North Carolina State Univ - Raleigh,737.814,5,3,10,,DNF,-,12,12.0
+15,,25,California State Poly Univ - Pomona,748.931,5,2,1,,DNF,-,12,12.0
+16,,29,Univ of Texas - Austin,837.734,5,9,1,,DNF,-,12,12.0
+17,,94,Univ of Colorado - Boulder,899.433,5,2,5,,DNF,-,12,12.0
+18,,93,South Dakota State Univ,935.217,5,9,2,,DNF,-,12,12.0
+19,,78,Univ of the Pacific,955.282,5,3,5,,DNF,-,12,12.0
+20,,71,Univ of Hartford,957.000,5,5,4,,DNF,-,12,12.0
+21,,121,Univ of Saskatchewan,677.894,4,2,3,,DNF,-,8,8.0
+22,,102,Missouri University of Science and Tech,485.558,3,1,,,DNF,-,6,6.0

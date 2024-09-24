@@ -1,4 +1,4 @@
-Unnamed: 0,ecalP,muNraC,maeT,tne my tlaunceoPD,erocSwaR,ytlanePetaL,sutatS,erocS
+,Place,CarNum,Team,DPoecnualt ym ent,RawScore,LatePenalty,Status,Score
 1,33 T,66,Univ of Michigan - Dearborn,,80,,,80
 2,33 T,71,Univ of Hartford,,80,,,80
 3,33 T,73,Univ of Puerto Rico-Mayaquez,,80,,,80
@@ -8,14 +8,14 @@ Unnamed: 0,ecalP,muNraC,maeT,tne my tlaunceoPD,erocSwaR,ytlanePetaL,sutatS,erocS
 7,33 T,100,Kettering Univ,,80,,,80
 8,33 T,102,Missouri University of Science and Tech,,80,,,80
 9,33 T,110,Michigan Tech Univ,,80,,,80
-10,52 T,47,Univ of Kentucky,5.0,80,,,75
-11,52 T,65,Hope College,5.0,80,,,75
-12,52 T,93,South Dakota State Univ,5.0,80,,,75
-13,52 T,94,Univ of Colorado - Boulder,5.0,80,,,75
-14,52 T,111,Florida International Univ,5.0,80,,,75
-15,57 T,42,Univ of Oklahoma,10.0,80,,,70
-16,57 T,99,Univ of North Florida,,80,10.0,,70
-17,59,122,South Dakota School of Mines & Tech,5.0,80,10.0,,65
+10,52 T,47,Univ of Kentucky,5,80,,,75
+11,52 T,65,Hope College,5,80,,,75
+12,52 T,93,South Dakota State Univ,5,80,,,75
+13,52 T,94,Univ of Colorado - Boulder,5,80,,,75
+14,52 T,111,Florida International Univ,5,80,,,75
+15,57 T,42,Univ of Oklahoma,10,80,,,70
+16,57 T,99,Univ of North Florida,,80,10,,70
+17,59,122,South Dakota School of Mines & Tech,5,80,10,,65
 18,60 T,19,Purdue Univ - Northwest,,60,,,60
 19,60 T,21,Oklahoma State Univ,,60,,,60
 20,60 T,22,Sacramento State Univ,,60,,,60
@@ -35,9 +35,9 @@ Unnamed: 0,ecalP,muNraC,maeT,tne my tlaunceoPD,erocSwaR,ytlanePetaL,sutatS,erocS
 34,60 T,118,Univ of Manitoba,,60,,,60
 35,60 T,120,Oregon Inst of Tech,,60,,,60
 36,60 T,131,Univ of Ottawa,,60,,,60
-37,79 T,17,Florida Atlantic Univ,5.0,60,,,55
-38,79 T,62,Washington State Univ,5.0,60,,,55
-39,81 T,34,Colorado Mesa University,10.0,60,,,50
-40,81 T,116,Saginaw Valley State Univ,10.0,60,,,50
-41,81 T,121,Univ of Saskatchewan,10.0,60,,,50
-42,84,36,Colorado State University,15.0,60,,,45
+37,79 T,17,Florida Atlantic Univ,5,60,,,55
+38,79 T,62,Washington State Univ,5,60,,,55
+39,81 T,34,Colorado Mesa University,10,60,,,50
+40,81 T,116,Saginaw Valley State Univ,10,60,,,50
+41,81 T,121,Univ of Saskatchewan,10,60,,,50
+42,84,36,Colorado State University,15,60,,,45

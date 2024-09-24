@@ -1,12 +1,12 @@
-Unnamed: 0,ecalP,muNraC,maeT,ytlaneP,erocStsoC,noitaet nr oecsSerP,erocSngiseD,noitaer er olecSccA,erocSdaPdikS,erocSssorcotuA,ecnearroucdSnE,erocSycneiciffE,erocSlatoT
-1,101.0,103,Penn State Univ - Harrisburg,,41.8,38.0,20.0,,,,,,99.8
-2,102.0,72,Univ of Delaware,,3.8,40.3,10.0,,,,25.0,,79.1
-3,103.0,79,Univ of Texas - San Antonio,,57.4,,15.0,,,,,,72.4
-4,104.0,128,St Cloud State Univ,,9.3,10.0,40.0,,,,,,59.3
-5,105.0,130,Northern Illinois Univ,,,40.0,10.0,,,,,,50.0
-6,106.0,88,UP Aguascalientes,,-3.1,40.9,,,,,,,37.8
-7,107.0,138,Universidad Autonoma de Baja California,-10.0,29.1,,10.0,,,,,,29.1
-8,108.0,54,Instituto Tecnologico de Chihuahua,,,15.5,10.0,,,,,,25.5
+,Place,CarNum,Team,Penalty,CostScore,PreSsceo rn teation,DesignScore,AccScelo re reation,SkidPadScore,AutocrossScore,EnSdcuorraence,EfficiencyScore,TotalScore
+1,101,103,Penn State Univ - Harrisburg,,41.8,38.0,20,,,,,,99.8
+2,102,72,Univ of Delaware,,3.8,40.3,10,,,,25,,79.1
+3,103,79,Univ of Texas - San Antonio,,57.4,,15,,,,,,72.4
+4,104,128,St Cloud State Univ,,9.3,10.0,40,,,,,,59.3
+5,105,130,Northern Illinois Univ,,,40.0,10,,,,,,50.0
+6,106,88,UP Aguascalientes,,-3.1,40.9,,,,,,,37.8
+7,107,138,Universidad Autonoma de Baja California,-10,29.1,,10,,,,,,29.1
+8,108,54,Instituto Tecnologico de Chihuahua,,,15.5,10,,,,,,25.5
 9,,41,Univ of Houston - Houston,,,64.2,,,,,,,Pres Only
 10,,51,ITESM - Campus Cuernavaca,,,23.5,,,,,,,Pres Only
 11,,56,Iowa State Univ,,,53.5,,,,,,,Pres Only

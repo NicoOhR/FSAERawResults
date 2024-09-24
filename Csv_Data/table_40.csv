@@ -1,30 +1,30 @@
-Unnamed: 0,muNraC,maeT,yrtnuoC,serneigdnn EilyC,tneemne)ig Ec lpcn a c (siD,)gk(thgieW,)sbl(thgieW
-1,106,Embry-Riddle Aero Univ - Daytona Beach,US,4,600,214.5,473.0
-2,107,Virginia Tech,US,1,450,176.4,389.0
-3,108,Lawrence Technological Univ,US,4,600,247.2,545.0
-4,109,Temple Univ,US,4,600,187.8,414.0
-5,110,Michigan Tech Univ,US,2,500,236.8,522.0
-6,111,Florida International Univ,US,2,650,263.5,581.0
-7,113,US Air Force Academy,US,1,450,201.4,444.0
-8,114,Lehigh Univ,US,1,450,175.1,386.0
-9,116,Saginaw Valley State Univ,US,4,600,201.4,444.0
-10,117,Pellissippi State Community College,US,1,690,204.6,451.0
-11,118,Univ of Manitoba,CA,1,450,218.6,482.0
-12,119,California Baptist University,US,1,690,196.0,432.0
-13,120,Oregon Inst of Tech,US,4,600,220.4,486.0
-14,121,Univ of Saskatchewan,CA,4,600,240.4,530.0
-15,122,South Dakota School of Mines & Tech,US,4,600,221.4,488.0
+,CarNum,Team,Country,CyliE nndgienres,Dis( c a ncpl cE gi)enmeent,Weight(kg),Weight(lbs)
+1,106,Embry-Riddle Aero Univ - Daytona Beach,US,4,600,214.5,473
+2,107,Virginia Tech,US,1,450,176.4,389
+3,108,Lawrence Technological Univ,US,4,600,247.2,545
+4,109,Temple Univ,US,4,600,187.8,414
+5,110,Michigan Tech Univ,US,2,500,236.8,522
+6,111,Florida International Univ,US,2,650,263.5,581
+7,113,US Air Force Academy,US,1,450,201.4,444
+8,114,Lehigh Univ,US,1,450,175.1,386
+9,116,Saginaw Valley State Univ,US,4,600,201.4,444
+10,117,Pellissippi State Community College,US,1,690,204.6,451
+11,118,Univ of Manitoba,CA,1,450,218.6,482
+12,119,California Baptist University,US,1,690,196,432
+13,120,Oregon Inst of Tech,US,4,600,220.4,486
+14,121,Univ of Saskatchewan,CA,4,600,240.4,530
+15,122,South Dakota School of Mines & Tech,US,4,600,221.4,488
 16,124,Alabama A & M Univ,US,4,600,,
-17,125,Northern Arizona Univ,US,4,600,244.9,540.0
-18,126,Arizona State Univ - Tempe,US,4,600,231.8,511.0
-19,127,Univ of Connecticut,US,4,600,223.6,493.0
-20,128,St Cloud State Univ,US,4,600,237.2,523.0
-21,130,Northern Illinois Univ,US,4,600,226.8,500.0
-22,131,Univ of Ottawa,CA,4,600,205.0,452.0
-23,133,Universidad Autonoma Estado Mexico,MX,4,600,246.3,543.0
-24,135,Univ of Wisconsin - Madison,US,2,690,215.0,474.0
-25,136,Univ of Minnesota-Duluth,US,1,450,235.9,520.0
-26,138,Universidad Autonoma de Baja California,MX,4,600,294.8,650.0
+17,125,Northern Arizona Univ,US,4,600,244.9,540
+18,126,Arizona State Univ - Tempe,US,4,600,231.8,511
+19,127,Univ of Connecticut,US,4,600,223.6,493
+20,128,St Cloud State Univ,US,4,600,237.2,523
+21,130,Northern Illinois Univ,US,4,600,226.8,500
+22,131,Univ of Ottawa,CA,4,600,205,452
+23,133,Universidad Autonoma Estado Mexico,MX,4,600,246.3,543
+24,135,Univ of Wisconsin - Madison,US,2,690,215,474
+25,136,Univ of Minnesota-Duluth,US,1,450,235.9,520
+26,138,Universidad Autonoma de Baja California,MX,4,600,294.8,650
 27,140,North Dakota State Univ,US,1,690,,
 28,142,Lamar Univ,US,4,600,,
-29,145,Instituto Maua de Tecnologia,BR,3,675,200.5,442.0
+29,145,Instituto Maua de Tecnologia,BR,3,675,200.5,442

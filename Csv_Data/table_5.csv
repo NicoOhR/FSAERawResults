@@ -1,11 +1,11 @@
-Unnamed: 0,ecalP,muNraC,maeT,tne my tlaunceoPD,erocSwaR,ytlanePetaL,sutatS,erocS
+,Place,CarNum,Team,DPoecnualt ym ent,RawScore,LatePenalty,Status,Score
 1,1,145,Instituto Maua de Tecnologia,,150,,Final,150
 2,2,38,North Carolina State Univ - Raleigh,,147,,Final,147
 3,3,135,Univ of Wisconsin - Madison,,145,,Final,145
 4,4,3,The Ohio State University,,144,,Final,144
 5,5,68,AGH Univ of Science and Technology,,132,,Final,132
 6,6,84,Univ of British Columbia,,125,,Final,125
-7,7 T,30,Univ of Calif - Berkeley,,130,10.0,Final,120
+7,7 T,30,Univ of Calif - Berkeley,,130,10,Final,120
 8,7 T,109,Temple Univ,,120,,Final,120
 9,9,45,California State Univ - Northridge,,119,,Final,119
 10,10,107,Virginia Tech,,105,,Final,105
@@ -28,9 +28,9 @@ Unnamed: 0,ecalP,muNraC,maeT,tne my tlaunceoPD,erocSwaR,ytlanePetaL,sutatS,erocS
 27,11 T,105,Univ of Southern California,,100,,,100
 28,11 T,126,Arizona State Univ - Tempe,,100,,,100
 29,11 T,127,Univ of Connecticut,,100,,,100
-30,30 T,49,Univ of Maryland - College Park,5.0,100,,,95
-31,30 T,67,Univ of Minnesota - Twin Cities,5.0,100,,,95
-32,32,104,Washington Univ - St Louis,,100,10.0,,90
+30,30 T,49,Univ of Maryland - College Park,5,100,,,95
+31,30 T,67,Univ of Minnesota - Twin Cities,5,100,,,95
+32,32,104,Washington Univ - St Louis,,100,10,,90
 33,33 T,14,Univ of Cincinnati,,80,,,80
 34,33 T,18,Kennesaw State University,,80,,,80
 35,33 T,24,Brown Univ,,80,,,80

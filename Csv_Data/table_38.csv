@@ -1,46 +1,46 @@
-Unnamed: 0,muNraC,maeT,yrtnuoC,serneigdnn EilyC,tneemne)ig Ec lpcn a c (siD,)gk(thgieW,)sbl(thgieW
-1,3,The Ohio State University,US,4,600,201.4,444.0
-2,6,California Polytechnic State Univ-SLO,US,1,450,177.4,391.0
-3,7,Georgia Institute of Technology,US,4,600,210.9,465.0
-4,8,Purdue Univ - W Lafayette,US,4,635,218.2,481.0
-5,9,Univ of North Carolina - Charlotte,US,1,450,169.2,373.0
-6,14,Univ of Cincinnati,US,2,690,204.6,451.0
-7,15,Tennessee Tech Univ,US,2,625,170.6,376.0
-8,16,Villanova Univ,US,4,600,206.8,456.0
-9,17,Florida Atlantic Univ,US,4,610,206.8,456.0
-10,18,Kennesaw State University,US,4,600,200.9,443.0
-11,19,Purdue Univ - Northwest,US,4,600,200.5,442.0
-12,20,Univ of Victoria,CA,4,600,211.8,467.0
-13,21,Oklahoma State Univ,US,4,635,238.6,526.0
-14,22,Sacramento State Univ,US,4,635,210.9,465.0
-15,23,Kansas State Univ,US,3,675,208.2,459.0
-16,24,Brown Univ,US,4,600,233.1,514.0
-17,25,California State Poly Univ - Pomona,US,4,600,224.5,495.0
-18,26,Univ of Wisconsin - Platteville,US,2,690,245.4,541.0
-19,27,Carleton Univ,CA,1,450,179.6,396.0
-20,29,Univ of Texas - Austin,US,4,600,217.3,479.0
-21,30,Univ of Calif - Berkeley,US,1,450,168.3,371.0
-22,31,Liberty Univ,US,4,600,213.6,471.0
-23,32,Colorado School of Mines,US,4,600,212.7,469.0
-24,33,Rose Hulman Inst of Tech,US,1,480,174.6,385.0
-25,34,Colorado Mesa University,US,2,650,210.5,464.0
-26,35,Texas A & M Univ - College Station,US,4,600,200.5,442.0
-27,36,Colorado State University,US,4,600,227.7,502.0
+,CarNum,Team,Country,CyliE nndgienres,Dis( c a ncpl cE gi)enmeent,Weight(kg),Weight(lbs)
+1,3,The Ohio State University,US,4,600,201.4,444
+2,6,California Polytechnic State Univ-SLO,US,1,450,177.4,391
+3,7,Georgia Institute of Technology,US,4,600,210.9,465
+4,8,Purdue Univ - W Lafayette,US,4,635,218.2,481
+5,9,Univ of North Carolina - Charlotte,US,1,450,169.2,373
+6,14,Univ of Cincinnati,US,2,690,204.6,451
+7,15,Tennessee Tech Univ,US,2,625,170.6,376
+8,16,Villanova Univ,US,4,600,206.8,456
+9,17,Florida Atlantic Univ,US,4,610,206.8,456
+10,18,Kennesaw State University,US,4,600,200.9,443
+11,19,Purdue Univ - Northwest,US,4,600,200.5,442
+12,20,Univ of Victoria,CA,4,600,211.8,467
+13,21,Oklahoma State Univ,US,4,635,238.6,526
+14,22,Sacramento State Univ,US,4,635,210.9,465
+15,23,Kansas State Univ,US,3,675,208.2,459
+16,24,Brown Univ,US,4,600,233.1,514
+17,25,California State Poly Univ - Pomona,US,4,600,224.5,495
+18,26,Univ of Wisconsin - Platteville,US,2,690,245.4,541
+19,27,Carleton Univ,CA,1,450,179.6,396
+20,29,Univ of Texas - Austin,US,4,600,217.3,479
+21,30,Univ of Calif - Berkeley,US,1,450,168.3,371
+22,31,Liberty Univ,US,4,600,213.6,471
+23,32,Colorado School of Mines,US,4,600,212.7,469
+24,33,Rose Hulman Inst of Tech,US,1,480,174.6,385
+25,34,Colorado Mesa University,US,2,650,210.5,464
+26,35,Texas A & M Univ - College Station,US,4,600,200.5,442
+27,36,Colorado State University,US,4,600,227.7,502
 28,37,Univ of Arizona,US,4,600,,
-29,38,North Carolina State Univ - Raleigh,US,4,675,192.3,424.0
-30,40,Universite de Sherbrooke,CA,2,500,200.5,442.0
+29,38,North Carolina State Univ - Raleigh,US,4,675,192.3,424
+30,40,Universite de Sherbrooke,CA,2,500,200.5,442
 31,41,Univ of Houston - Houston,US,4,600,,
-32,42,Univ of Oklahoma,US,4,635,231.8,511.0
-33,43,Universidad Panamericana Sede Guadalajar,MX,4,600,269.4,594.0
-34,44,Univ of Texas - Dallas,US,4,600,249.5,550.0
-35,45,California State Univ - Northridge,US,4,600,189.6,418.0
-36,46,York College of Pennsylvania,US,4,600,253.1,558.0
-37,47,Univ of Kentucky,US,4,600,213.6,471.0
-38,48,Univ of Central Florida,US,4,635,194.6,429.0
-39,49,Univ of Maryland - College Park,US,4,600,223.6,493.0
+32,42,Univ of Oklahoma,US,4,635,231.8,511
+33,43,Universidad Panamericana Sede Guadalajar,MX,4,600,269.4,594
+34,44,Univ of Texas - Dallas,US,4,600,249.5,550
+35,45,California State Univ - Northridge,US,4,600,189.6,418
+36,46,York College of Pennsylvania,US,4,600,253.1,558
+37,47,Univ of Kentucky,US,4,600,213.6,471
+38,48,Univ of Central Florida,US,4,635,194.6,429
+39,49,Univ of Maryland - College Park,US,4,600,223.6,493
 40,50,Missouri State University,US,1,450,,
 41,51,ITESM - Campus Cuernavaca,MX,4,635,,
-42,52,California State Univ - Chico,US,1,450,192.3,424.0
-43,53,Clemson Univ,US,4,635,196.0,432.0
-44,54,Instituto Tecnologico de Chihuahua,MX,4,600,235.4,519.0
-45,55,Univ of Missouri,US,4,600,232.7,513.0
+42,52,California State Univ - Chico,US,1,450,192.3,424
+43,53,Clemson Univ,US,4,635,196,432
+44,54,Instituto Tecnologico de Chihuahua,MX,4,600,235.4,519
+45,55,Univ of Missouri,US,4,600,232.7,513
