@@ -1,4 +1,5 @@
-Place,CarNum,Team,Run1 Time,Run1 Cones,Run1 AdjTime,Run2 Time,Run2 Cones,Run2 AdjTime,Run3 Time,Run3 Cones,Run3 AdjTime,Run4 Time,Run4 Cones,Run4 AdjTime,BestTime,Penalty,Score
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Run #1,Unnamed: 4,Unnamed: 5,Run #2,Unnamed: 7,Unnamed: 8,Run #3,Unnamed: 10,Unnamed: 11,Run #4,Unnamed: 13,Unnamed: 14,Final,Unnamed: 16,Unnamed: 17
+Place,CarNum,Team,Time,Cones,AdjTime,Time,Cones,AdjTime,Time,Cones,AdjTime,Time,Cones,AdjTime,BestTime,Penalty,Score
 1,35,Texas A & M Univ - College Station,4.236,,4.236,4.263,,4.263,4.206,,4.206,4.209,,4.209,4.206,,100
 2,3,The Ohio State University,4.368,,4.368,4.434,,4.434,4.290,,4.290,4.271,,4.271,4.271,,95.68
 3,83,Univ of South Florida,4.385,,4.385,4.275,,4.275,,,DNA,,,DNA,4.275,,95.44

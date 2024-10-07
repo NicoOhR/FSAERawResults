@@ -1,4 +1,5 @@
-Place,CarNum,Team,Driver1 Run1 TimeR,Driver1 Run1 TimeL,Driver1 Run1 Cones,Driver1 Run1 ,Driver1 Run1 AdjTime,Driver1 Run2 TimeR,Driver1 Run2 TimeL,Driver1 Run2 Cones,Driver1 Run2 AdjTime,Driver2 Run1 TimeR,Driver2 Run1 TimeL,Driver2 Run1 Cones,Driver2 Run1 AdjTime,Driver2 Run2 TimeR,Driver2 Run2 TimeL,Driver2 Run2 Cones,Driver2 Run2 AdjTime,BestTime,Penalty,Score
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Driver 1 Run 1,Unnamed: 4,Unnamed: 5,Unnamed: 6,Driver 1 Run 2,Unnamed: 8,Unnamed: 9,Unnamed: 10,Driver 2 Run 1,Unnamed: 12,Unnamed: 13,Unnamed: 14,Driver 2 Run 2,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21
+Place,CarNum,Team,TimeR,TimeL,Cones,AdjTime,TimeR,TimeL,Cones,AdjTime,TimeR,TimeL,Cones,AdjTime,TimeR,TimeL,Cones,AdjTime,BestTime,Penalty,Score
 1 T,8,Purdue Univ - W Lafayette,5.270,5.420,,5.345,5.370,,,DNF,5.334,5.460,,5.397,5.170,5.190,,5.180,5.180,,75
 1 T,55,Univ of Missouri,6.063,5.776,,5.919,5.457,5.337,,5.397,5.764,5.270,2,5.767,5.240,5.120,,5.180,5.180,,75.0
 3,49,Univ of Maryland - College Park,,,,DNF,5.290,5.204,,5.247,5.493,4.946,,5.219,5.493,5.490,,5.491,5.219,,72.04
