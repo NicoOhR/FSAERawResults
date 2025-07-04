@@ -1,0 +1,1 @@
+{"cmd": "print(f\"Found {tables.n} tables\")", "cmd_opts": "", "import_complete": 1, "terminal": "nvimterm"}
